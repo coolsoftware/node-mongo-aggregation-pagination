@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/",
+    "dbName": "mongo-aggregation-pagination"
+}
